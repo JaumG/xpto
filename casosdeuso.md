@@ -1,16 +1,16 @@
 # Especificação de Casos de Uso
 
 # Sumário
-- [CDU 01 - Cadastro de usuários](#cdu-01---cadastro-de-usuario)
+- [CDU 01 - Cadastro de usuários](#cdu-01---cadastro-de-usuário)
 - [CDU 02 - Login](#cdu-02---login)
 - [CDU 03 - Gerenciamento de cadastro](#cdu-03---gerenciamento-de-cadastro)
 - [CDU 04 - Listagem dos Alimentos](#cdu-04---listagem-dos-alimentos)
 - [CDU 05 - Situação do pedido](#cdu-05---situação-do-pedido)
 - [CDU 06 - Gerenciamento do preço dos produtos](#cdu-06---gerenciamento-do-preço-dos-produtos)
-- [CDU 07 - Gerenciamento da venda dos produtos](#cdu-02---gerenciamento-da-venda-dos-produtos)
+- [CDU 07 - Gerenciamento da venda dos produtos](#cdu-07---gerenciamento-da-venda-dos-produtos)
 - [CDU 08 - Avaliação da loja](#cdu-08---avaliação-da-loja)
 - [CDU 09 - Dados pessoais](#cdu-09---dados-pessoais)
-- [CDU 10 - Acesso ao histárico de vendas](#cdu-02---acesso-ao-historico-de-vendas)
+- [CDU 10 - Acesso ao histórico de vendas](#cdu-10---acesso-ao-histórico-de-vendas)
 
 # Descrição
 ## CDU 01 - Cadastro de usuários
