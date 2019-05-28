@@ -1,7 +1,7 @@
 # Especificação de Casos de Uso
 
 # Sumário
-- [CDU 01 - Cadastro de usuários](#cdu-01---cadastro-de-usuário)
+- [CDU 01 - Cadastro de usuários](#cdu-01---cadastro-de-usuários)
 - [CDU 02 - Login](#cdu-02---login)
 - [CDU 03 - Gerenciamento de cadastro](#cdu-03---gerenciamento-de-cadastro)
 - [CDU 04 - Listagem dos Alimentos](#cdu-04---listagem-dos-alimentos)
